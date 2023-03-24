@@ -85,7 +85,7 @@ npm install
 # Run the bot
 npm start
 ```
-
+When I install and start throw err
 ### Docker
 
 ```sh
